@@ -1,0 +1,117 @@
+//DIRECCION DEL JSON ONLINE:
+// https://api.myjson.com/bins/gr9qy
+
+{
+    "provincias":[
+          {
+              "ID": 1,
+              "provincia": "Buenos Aires",
+              "codigo": "BA"
+          },
+          {
+              "ID": 2,
+              "provincia": "Catamarca",
+              "codigo": "CA"
+          },
+          {
+              "ID": 3,
+              "provincia": "Chaco",
+              "codigo": "CH"
+          },
+          {
+              "ID": 4,
+              "provincia": "Chubut",
+              "codigo": "CT"
+          },
+          {
+              "ID": 5,
+              "provincia": "Córdoba",
+              "codigo": "CB"
+          },
+          {
+              "ID": 6,
+              "provincia": "Corrientes",
+              "codigo": "CR"
+          },
+          {
+              "ID": 7,
+              "provincia": "Entre Ríos",
+              "codigo": "ER"
+          },
+          {
+              "ID": 8,
+              "provincia": "Formosa",
+              "codigo": "FO"
+          },
+          {
+              "ID": 9,
+              "provincia": "Jujuy",
+              "codigo": "JY"
+          },
+          {
+              "ID": 10,
+              "provincia": "La Pampa",
+              "codigo": "LP"
+          },
+          {
+              "ID": 11,
+              "provincia": "La Rioja",
+              "codigo": "LR"
+          },
+          {
+              "ID": 12,
+              "provincia": "Mendoza",
+              "codigo": "MZ"
+          },
+          {
+              "ID": 13,
+              "provincia": "Misiones",
+              "codigo": "MI"
+          },
+          {
+              "ID": 14,
+              "provincia": "Neuquén",
+              "codigo": "NQ"
+          },
+          {
+              "ID": 15,
+              "provincia": "Río Negro",
+              "codigo": "RN"
+          },
+          {
+              "ID": 17,
+              "provincia": "Salta",
+              "codigo": "SA"
+          },
+          {
+              "ID": 18,
+              "provincia": "San Juan",
+              "codigo": "SJ"
+          },
+          {
+              "ID": 19,
+              "provincia": "San Luis",
+              "codigo": "SL"
+          },
+          {
+              "ID": 20,
+              "provincia": "Santa Cruz",
+              "codigo": "SC"
+          },
+          {
+              "ID": 21,
+              "provincia": "Santa Fé",
+              "codigo": "SF"
+          },
+          {
+              "ID": 22,
+              "provincia": "Tierra del Fuego",
+              "codigo": "TF"
+          },
+          {
+              "ID": 23,
+              "provincia": "Tucumán",
+              "codigo": "TUC"
+          }
+        ]
+}
